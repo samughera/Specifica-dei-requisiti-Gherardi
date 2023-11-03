@@ -1,4 +1,4 @@
-Problema:
+<b>Problema:</b>
 In Italia il tasso di disoccupazione è molto alto, ed è difficile trovare un metodo per mettersi in contatto con le aziende.
 
 Soluzione/Obiettivi del sito:
