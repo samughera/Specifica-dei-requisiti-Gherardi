@@ -30,6 +30,11 @@ sarà presenta una barra di ricerca e una ricerca a categorie.
 
 <b>Competizione:</b>indeed.com
 
+<b>WBS<b>
+https://miro.com/welcomeonboard/S2h0Y2JOTTVoRHk3RFB3a0NzaTRDVHMyNElUZDFhcGF6ZVZlWDNZbDRMV1pMdm80dVNQYXlQcUVqTDRab3NqdHwzNDU4NzY0NTcxMTEwNzM1MzQ1fDI=?share_link_id=899863130679
+
+
+
 <b>Diagramma UML:</b>
 
 <img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(registrazione), [Utente]-(login), [Utente]-(modificare le proprie informazioni), (modificare le proprie informazioni)>(login), [Utente]-(navigare la bacheca), (navigare la bacheca) >(login), (login)<(log out), (registrazione)<(login), [organizzazione]-(registrazione), [organizzazione]-(aggiungere nuove offerte di lavoro), (aggiungere nuove offerte di lavoro)>(login), [organizzazione]-(cancellare le offerte di lavoro), (cancellare le offerte di lavoro)<(note: devono essere state pubblicate da quel account), (cancellare le offerte di lavoro)>(login), [amministratore]-(login), [amministratore]-(cancellare utenti), (cancellare utenti)>(login), [amministratore]-(cancellare post), (cancellare post)>login, [amministratore]-(modificare post), [amministratore]-(modificare utenti), [organizzazione]-(modificare post), (modificare post)>(login), (modificare utenti)>(login)">
