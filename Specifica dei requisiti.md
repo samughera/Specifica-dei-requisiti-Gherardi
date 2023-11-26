@@ -33,6 +33,8 @@ sarà presenta una barra di ricerca e una ricerca a categorie.
 <b>WBS<b>
 https://miro.com/welcomeonboard/S2h0Y2JOTTVoRHk3RFB3a0NzaTRDVHMyNElUZDFhcGF6ZVZlWDNZbDRMV1pMdm80dVNQYXlQcUVqTDRab3NqdHwzNDU4NzY0NTcxMTEwNzM1MzQ1fDI=?share_link_id=899863130679
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNK4qWxc=/?moveToViewport=-1842,-771,3100,1611&embedId=98404309930" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
 
 
 <b>Diagramma UML:</b>
