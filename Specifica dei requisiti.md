@@ -30,7 +30,7 @@ sarà presenta una barra di ricerca e una ricerca a categorie.
 
 <b>Competizione:</b>indeed.com
 
-<b>WBS<b>
+<b>WBS</b>
 https://miro.com/welcomeonboard/S2h0Y2JOTTVoRHk3RFB3a0NzaTRDVHMyNElUZDFhcGF6ZVZlWDNZbDRMV1pMdm80dVNQYXlQcUVqTDRab3NqdHwzNDU4NzY0NTcxMTEwNzM1MzQ1fDI=?share_link_id=899863130679
 
 <b>Value proposition<b> : Collega i sogni, Unisce le carriere - La Tua porta verso il successo professionale
