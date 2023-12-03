@@ -35,6 +35,8 @@ https://miro.com/welcomeonboard/S2h0Y2JOTTVoRHk3RFB3a0NzaTRDVHMyNElUZDFhcGF6ZVZl
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNK4qWxc=/?moveToViewport=-1842,-771,3100,1611&embedId=98404309930" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
+
+
 <b> Value proposition <b> : Collega i sogni, Unisce le carriere - La Tua porta verso il successo professionale
 
 JobConnect: Semplicità e Velocità nel Tuo Percorso Professionale. Collega Velocemente talenti e opportunità, Rendendo il Tuo Futuro Lavorativo Più Accessibile che Mai.
