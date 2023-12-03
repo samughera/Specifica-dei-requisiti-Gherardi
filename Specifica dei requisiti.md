@@ -33,6 +33,9 @@ sarà presenta una barra di ricerca e una ricerca a categorie.
 <b>WBS</b>
 https://miro.com/welcomeonboard/S2h0Y2JOTTVoRHk3RFB3a0NzaTRDVHMyNElUZDFhcGF6ZVZlWDNZbDRMV1pMdm80dVNQYXlQcUVqTDRab3NqdHwzNDU4NzY0NTcxMTEwNzM1MzQ1fDI=?share_link_id=899863130679
 
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNK4qWxc=/?moveToViewport=-1061,-748,2162,1124&embedId=781630235134" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+
 <b>Value proposition</b> : Collega i sogni, Unisce le carriere - La Tua porta verso il successo professionale
 
 JobConnect: Semplicità e Velocità nel Tuo Percorso Professionale. Collega Velocemente talenti e opportunità, Rendendo il Tuo Futuro Lavorativo Più Accessibile che Mai.
