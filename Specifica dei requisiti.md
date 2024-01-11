@@ -70,7 +70,7 @@ Interfaccia per inserire dettagli dell'offerta di lavoro.
 Opzioni per specificare requisiti, location, e tipo di contratto.
 Capacità di gestire e modificare le offerte pubblicate.
 
-Stima Temporale: 4
+Stima Temporale: 4 giorni
 
 <b>3) </b>User Story per la Ricerca di Lavoro:
 Titolo: Ricerca di Offerte di Lavoro
