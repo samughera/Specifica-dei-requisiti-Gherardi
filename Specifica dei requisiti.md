@@ -48,6 +48,7 @@ accessibilità: La nostra interfaccia intuitiva e user-friendly permette a chiun
 User Story per Candidato in cerca di lavoro:
 
 <b>1) </b>Titolo: Creazione del Profilo Utente
+
 Come un candidato in cerca di lavoro,
 Voglio poter creare e modificare il mio profilo,
 Così che possa inserire le mie informazioni personali, esperienze professionali e competenze.
@@ -55,6 +56,7 @@ Criteri di Accettazione:
 Possibilità di inserire dettagli personali, esperienze lavorative e competenze.
 Funzionalità per caricare un curriculum vitae.
 Possibilità di modificare e aggiornare il profilo in qualsiasi momento.
+
 Stima Temporale: 4 giorni
 
 <b>2) </b>User Story per Aziende:
