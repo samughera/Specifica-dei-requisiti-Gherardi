@@ -47,7 +47,7 @@ accessibilità: La nostra interfaccia intuitiva e user-friendly permette a chiun
 
 User Story per Candidato in cerca di lavoro:
 
-<b>1)</b>Titolo: Creazione del Profilo Utente
+<b>1) </b>Titolo: Creazione del Profilo Utente
 Come un candidato in cerca di lavoro,
 Voglio poter creare e modificare il mio profilo,
 Così che possa inserire le mie informazioni personali, esperienze professionali e competenze.
@@ -57,7 +57,7 @@ Funzionalità per caricare un curriculum vitae.
 Possibilità di modificare e aggiornare il profilo in qualsiasi momento.
 Stima Temporale: 4 giorni
 
-<b>2)</b>User Story per Aziende:
+<b>2) </b>User Story per Aziende:
 Titolo: Pubblicazione Offerte di Lavoro
 Come un'azienda,
 Voglio poter pubblicare offerte di lavoro sulla bacheca,
@@ -68,7 +68,7 @@ Opzioni per specificare requisiti, location, e tipo di contratto.
 Capacità di gestire e modificare le offerte pubblicate.
 Stima Temporale: 4
 
-<b>3)</b>User Story per la Ricerca di Lavoro:
+<b>3) </b>User Story per la Ricerca di Lavoro:
 Titolo: Ricerca di Offerte di Lavoro
 Come un utente in cerca di lavoro,
 Voglio poter cercare offerte di lavoro utilizzando filtri e parole chiave,
@@ -78,7 +78,7 @@ Implementazione di un motore di ricerca con filtri e parole chiave.
 Risultati della ricerca pertinenti e ben organizzati.
 Stima Temporale: 3 giorni
 
-<b>4)</b>User Story per Personalizzazione dell'Account:
+<b>4) </b>User Story per Personalizzazione dell'Account:
 Titolo: Personalizzazione del Profilo
 Come un utente,
 Voglio poter personalizzare il mio profilo,
@@ -88,7 +88,7 @@ Possibilità di aggiungere, modificare e rimuovere competenze e esperienze.
 Opzioni per personalizzare l'aspetto del profilo.
 Stima Temporale: 4 giorni.
 
-<b>5)</b>User Story per l'Interfaccia Utente:
+<b>5) </b>User Story per l'Interfaccia Utente:
 Titolo: Navigazione Semplice e Intuitiva
 Come un utente,
 Voglio un'interfaccia semplice e intuitiva,
