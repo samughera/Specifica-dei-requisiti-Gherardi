@@ -43,7 +43,7 @@ Velocità: Il sito si distingue per la straordinaria velocità che offriamo nel 
 
 accessibilità: La nostra interfaccia intuitiva e user-friendly permette a chiunque di navigare facilmente.
 
-<b>User stories:<b>
+<b>User stories:</b>
 
 User Story per Candidato in cerca di lavoro:
 
