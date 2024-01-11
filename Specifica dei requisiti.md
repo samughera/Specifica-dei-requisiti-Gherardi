@@ -59,6 +59,7 @@ Stima Temporale: 4 giorni
 
 <b>2) </b>User Story per Aziende:
 Titolo: Pubblicazione Offerte di Lavoro
+
 Come un'azienda,
 Voglio poter pubblicare offerte di lavoro sulla bacheca,
 Così che possa attirare candidati qualificati.
@@ -66,36 +67,43 @@ Criteri di Accettazione:
 Interfaccia per inserire dettagli dell'offerta di lavoro.
 Opzioni per specificare requisiti, location, e tipo di contratto.
 Capacità di gestire e modificare le offerte pubblicate.
+
 Stima Temporale: 4
 
 <b>3) </b>User Story per la Ricerca di Lavoro:
 Titolo: Ricerca di Offerte di Lavoro
+
 Come un utente in cerca di lavoro,
 Voglio poter cercare offerte di lavoro utilizzando filtri e parole chiave,
 Così che possa trovare le offerte più adatte alle mie competenze e interessi.
 Criteri di Accettazione:
 Implementazione di un motore di ricerca con filtri e parole chiave.
 Risultati della ricerca pertinenti e ben organizzati.
+
 Stima Temporale: 3 giorni
 
 <b>4) </b>User Story per Personalizzazione dell'Account:
 Titolo: Personalizzazione del Profilo
+
 Come un utente,
 Voglio poter personalizzare il mio profilo,
 Così che possa mettere in evidenza le mie competenze e esperienze uniche.
 Criteri di Accettazione:
 Possibilità di aggiungere, modificare e rimuovere competenze e esperienze.
 Opzioni per personalizzare l'aspetto del profilo.
+
 Stima Temporale: 4 giorni.
 
 <b>5) </b>User Story per l'Interfaccia Utente:
 Titolo: Navigazione Semplice e Intuitiva
+
 Come un utente,
 Voglio un'interfaccia semplice e intuitiva,
 Così che possa navigare facilmente senza confusione.
 Criteri di Accettazione:
 Design pulito e intuitivo dell'interfaccia utente.
 Test con gli utenti per assicurare la facilità di navigazione.
+
 Stima Temporale: 4 giorni
 
 
