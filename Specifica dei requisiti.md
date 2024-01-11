@@ -43,6 +43,62 @@ Velocità: Il sito si distingue per la straordinaria velocità che offriamo nel 
 
 accessibilità: La nostra interfaccia intuitiva e user-friendly permette a chiunque di navigare facilmente.
 
+<b>User stories:<b>
+
+User Story per Candidato in cerca di lavoro:
+
+1)Titolo: Creazione del Profilo Utente
+Come un candidato in cerca di lavoro,
+Voglio poter creare e modificare il mio profilo,
+Così che possa inserire le mie informazioni personali, esperienze professionali e competenze.
+Criteri di Accettazione:
+Possibilità di inserire dettagli personali, esperienze lavorative e competenze.
+Funzionalità per caricare un curriculum vitae.
+Possibilità di modificare e aggiornare il profilo in qualsiasi momento.
+Stima Temporale: 4 giorni
+
+2)User Story per Aziende:
+Titolo: Pubblicazione Offerte di Lavoro
+Come un'azienda,
+Voglio poter pubblicare offerte di lavoro sulla bacheca,
+Così che possa attirare candidati qualificati.
+Criteri di Accettazione:
+Interfaccia per inserire dettagli dell'offerta di lavoro.
+Opzioni per specificare requisiti, location, e tipo di contratto.
+Capacità di gestire e modificare le offerte pubblicate.
+Stima Temporale: 4
+
+3)User Story per la Ricerca di Lavoro:
+Titolo: Ricerca di Offerte di Lavoro
+Come un utente in cerca di lavoro,
+Voglio poter cercare offerte di lavoro utilizzando filtri e parole chiave,
+Così che possa trovare le offerte più adatte alle mie competenze e interessi.
+Criteri di Accettazione:
+Implementazione di un motore di ricerca con filtri e parole chiave.
+Risultati della ricerca pertinenti e ben organizzati.
+Stima Temporale: 3 giorni
+
+4)User Story per Personalizzazione dell'Account:
+Titolo: Personalizzazione del Profilo
+Come un utente,
+Voglio poter personalizzare il mio profilo,
+Così che possa mettere in evidenza le mie competenze e esperienze uniche.
+Criteri di Accettazione:
+Possibilità di aggiungere, modificare e rimuovere competenze e esperienze.
+Opzioni per personalizzare l'aspetto del profilo.
+Stima Temporale: 4 giorni.
+
+5)User Story per l'Interfaccia Utente:
+Titolo: Navigazione Semplice e Intuitiva
+Come un utente,
+Voglio un'interfaccia semplice e intuitiva,
+Così che possa navigare facilmente senza confusione.
+Criteri di Accettazione:
+Design pulito e intuitivo dell'interfaccia utente.
+Test con gli utenti per assicurare la facilità di navigazione.
+Stima Temporale: 4 giorni
+
+
 
 <b>Diagramma UML:</b>
 
