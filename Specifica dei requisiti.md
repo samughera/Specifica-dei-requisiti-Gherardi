@@ -111,8 +111,10 @@ Stima Temporale: 4 giorni
 <b>Implementazione del concetto di multitenancy</b>
 
 Il database deve essere progettato per supportare più tenant, come modello di database da utilizzare io ho scelto quello di Schema condiviso che consiste in un unico schema che serve tutti i tenant, con i dati di ogni tenant identificati da una chiave specifica del tenant. È il modello più scalabile e meno costoso, ma richiede attenzione particolare all'isolamento dei dati e alla sicurezza.
+
 L'autenticazione deve garantire che gli utenti possano accedere solo ai dati del proprio tenant. Utilizzerò sistemi come OAuth2 e JWT (JSON Web Tokens) per gestire l'autenticazione e memorizzare le informazioni del tenant nell'ambito del token di sicurezza.
 Ogni tenant potrebbe richiedere configurazioni personalizzate (es. logo, temi, workflow specifici). implementerò un sistema che consenta di configurare e memorizzare queste personalizzazioni in modo efficiente.
+
 per questo configurazione userò una tabella di configurazione, Una tabella nel database che memorizza le configurazioni chiave-valore per ogni tenant. Ogni riga contiene l'ID del tenant, il nome della configurazione, e il valore della configurazione
 Implementerò delle api per permette ai client di leggere le configurazioni attuali del tenant.
 API di Aggiornamento: Consente ai tenant o agli amministratori di aggiornare le configurazioni.
@@ -121,8 +123,11 @@ Queste API devono autenticare l'utente e verificare che appartenga al tenant per
 <b>Pivot</b>
 
 Nel caso la mia applicazione non raggiunga i risultati richiesti, apporterò alcune modifiche:
+
 Per prima cosa, cambierò il focus degli utenti, al posto di focalizzare la mia piattaforma su untenti generici mi concentrerò su una piattaforma per la ricerca di lavoro remoto, Data la crescente popolarità del lavoro da remoto, una job board specializzata in posizioni remote potrebbe attrarre sia aziende che candidati.
+
 Espanderei i servizi disponibili, aggiungendo Consulenza e formazione e Organizzazione di eventi di networking online o fisici per permettere ai candidati e ai datori di lavoro di incontrarsi in contesti meno formali.
+
 Migliorerei anche la tecnologia della nostra piattaforma, migliorando la Realizzazione di CV interattivi, Sviluppando strumenti che permettano ai candidati di creare CV digitali interattivi o video CV.
 
 
