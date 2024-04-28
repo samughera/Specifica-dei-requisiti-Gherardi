@@ -115,7 +115,7 @@ Il database deve essere progettato per supportare più tenant, come modello di d
 L'autenticazione deve garantire che gli utenti possano accedere solo ai dati del proprio tenant. Utilizzerò sistemi come OAuth2 e JWT (JSON Web Tokens) per gestire l'autenticazione e memorizzare le informazioni del tenant nell'ambito del token di sicurezza.
 Ogni tenant potrebbe richiedere configurazioni personalizzate (es. logo, temi, workflow specifici). implementerò un sistema che consenta di configurare e memorizzare queste personalizzazioni in modo efficiente.
 
-per questo configurazione userò una tabella di configurazione, Una tabella nel database che memorizza le configurazioni chiave-valore per ogni tenant. Ogni riga contiene l'ID del tenant, il nome della configurazione, e il valore della configurazione
+Per questo configurazione userò una tabella di configurazione, Una tabella nel database che memorizza le configurazioni chiave-valore per ogni tenant. Ogni riga contiene l'ID del tenant, il nome della configurazione, e il valore della configurazione
 Implementerò delle api per permette ai client di leggere le configurazioni attuali del tenant.
 API di Aggiornamento: Consente ai tenant o agli amministratori di aggiornare le configurazioni.
 Queste API devono autenticare l'utente e verificare che appartenga al tenant per il quale stanno tentando di leggere o modificare le configurazioni.
